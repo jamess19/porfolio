@@ -5,7 +5,7 @@ import { Award, GraduationCap } from 'lucide-react';
 const About: React.FC = () => {
 
   const certifications = [
-    "Ielts"
+    "Not yet, but currently attending classes aiming for 7+ in IELTS"
   ];
 
   const education = [

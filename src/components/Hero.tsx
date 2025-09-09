@@ -83,7 +83,7 @@ const Hero: React.FC = () => {
             
             <motion.a
               whileHover={{ scale: 1.2, rotate: -5 }}
-              href="https://linkedin.com/in/nguyen-quang-thong"
+              href="https://linkedin.com/in/thông-nguyễn-8b9389155/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-sky-500 dark:hover:text-sky-400 transition-colors duration-200"
@@ -93,7 +93,7 @@ const Hero: React.FC = () => {
             
             <motion.a
               whileHover={{ scale: 1.2, rotate: 5 }}
-              href="mailto:quangthong.dev@gmail.com"
+              href="mailto:quangthong2004@gmail.com"
               className="text-gray-600 dark:text-gray-400 hover:text-sky-500 dark:hover:text-sky-400 transition-colors duration-200"
             >
               <Mail className="h-8 w-8" />
