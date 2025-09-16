@@ -5,7 +5,7 @@ import { Code, Database, Globe, Smartphone, Award, GraduationCap } from 'lucide-
 const Skills: React.FC = () => {
   const skills = [
     { icon: <Code className="h-6 w-6" />, name: 'Frontend', description: 'HTML, CSS, Tailwind CSS, JavaScript, React, NextJS, Shadcn, MaterialUI' },
-    { icon: <Database className="h-6 w-6" />, name: 'Backend', description: 'Spring Boot, Java, C#, C++, Python, Django, FastAPI' },
+    { icon: <Database className="h-6 w-6" />, name: 'Backend', description: 'Node.JS, Spring Boot, Java, C#, C++, Python, Django, FastAPI' },
     { icon: <Globe className="h-6 w-6" />, name: 'Databases', description: 'PostgreSQL, MongoDB, SQL Server, MySQL, Oracle' },
     { icon: <Smartphone className="h-6 w-6" />, name: 'Tools', description: 'Git, GitHub, Docker, IntelliJ IDEA, VS Code, Figma, Postman, Jira' },
     { icon: <Award className="h-6 w-6" />, name: 'Methodology', description: 'Agile/Scrum' },
